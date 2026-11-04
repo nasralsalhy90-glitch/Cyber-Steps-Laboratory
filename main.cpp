@@ -8,7 +8,9 @@ int main() {
     cout << "==========================================" << endl;
     cout << "   WELCOME TO CYBER STEPS LAB SYSTEM     " << endl;
     cout << "==========================================" << endl;
-bool isEmergence=false;//إعطاء قيمة بدائية للمتغير تمثل الحالة الاعتيادية الطبيعية
+bool isEmergence=false;
+//إعطاء قيمة بدائية للمتغير تمثل الحالة الاعتيادية الطبيعية
+
 string Username;
 string cyberField;
 int age;
