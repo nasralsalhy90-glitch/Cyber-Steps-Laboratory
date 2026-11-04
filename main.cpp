@@ -3,8 +3,7 @@
 using namespace std;
 
 int main() {
-    // CyberStepsAcademy - Cyber Steps Laboratory
-    // Challenge #01 Starter Code
+ 
 
     cout << "==========================================" << endl;
     cout << "   WELCOME TO CYBER STEPS LAB SYSTEM     " << endl;
